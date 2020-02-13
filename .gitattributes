@@ -1,3 +1,0 @@
-SLM-Li.pdf filter=lfs diff=lfs merge=lfs -text
-RL.pdf filter=lfs diff=lfs merge=lfs -text
-ML-Zhou.pdf filter=lfs diff=lfs merge=lfs -text
